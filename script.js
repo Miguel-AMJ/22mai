@@ -33,7 +33,7 @@ for (let p of paragrafos) { p.style.color = 'darkgray'
 // ==================================================
 // ==> MANIPULAR ATRIBUTOS <==
 // 9. Adicione uma classe "destaque" ao elemento com id "meuId"
-elementoPorId.
+document.getElementById.("meu Id").classList.add("destaque")
 
 // 10. Adicione um atributo "title" com valor "Elemento destacado" ao mesmo elemento
-elementoPorId.
+document.getElementById("meuId").setAtribute('title', 'Elemento destacado')
